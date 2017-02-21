@@ -1,0 +1,14 @@
+cd..
+mkdir test
+cd test
+copy nul and each file name
+git init
+git add aboutMe.txt
+git add aboutMe.txt
+git add .
+git commit -m "added favorite movie"
+git log
+git diff --stat 8f1be90a5e5eecbb711b471bdcbdece2dba4fe9e
+git revert
+copy nul aboutMe.txt
+git commit
